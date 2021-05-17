@@ -1,0 +1,51 @@
+
+
+p {
+    
+    margin-right: 100px;
+    margin-left: 150px;
+  }
+
+div {
+    padding-top: 50px;
+    padding-right: 150px;
+    padding-bottom: 200px;
+    padding-left: 80px;
+    
+}
+
+.centered-title {
+    text-align:center;
+    color:maroon;
+}
+
+.photo {
+    text-align: center;
+}
+
+
+h1 {    
+    
+    text-align:center;
+}
+
+ul {
+    color:midnightblue;
+    
+}
+
+#lc {
+    text-align:center;
+    color:darkmagenta;
+}
+#ex {
+    text-align:center;
+    color:navy
+}
+#st {
+    text-align:center;
+    color:darkred;
+}
+
+
+  
